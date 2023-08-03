@@ -1,0 +1,3 @@
+[submodule "submodule-test-shared"]
+	path = submodule-test-shared
+	url = https://github.com/klope3/submodule-test-shared.git
